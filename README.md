@@ -135,6 +135,5 @@ Vercel auto-detects React and builds it. Live in ~30 seconds.
 ---
 
 ## 👤 Author
+Naman Rathi
 
-**[Your Name]**
-Scaler React Project — Group B 2029
